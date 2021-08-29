@@ -1,7 +1,7 @@
 <h1 align="center"> JavaScript-Descomplicado_curso</h1> 
 <h3>Status do Curso: Em andamento :warning: </h3>
 <hr>
-<p>Neste curso serão abordados fundamentos, práticas e técnicas da linguagem <span>JavaScript</span>.</p>
+<p>Neste curso serão abordados fundamentos, práticas e técnicas da linguagem <b>JavaScript</b>.</p>
 <p>Vários dos conceitos principais e características da linguagem serão exemplificados.</p>
 <p>O JavaScript é usado na criação de sites e aplicações web. </p>
 <p> :bookmark_tabs: Validação de campos, aplicação de interatividade com o usuário, cálculos, criação de jogos e melhoria da interface são alguns dos usos mais comuns.</p>
