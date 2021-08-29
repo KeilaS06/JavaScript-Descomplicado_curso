@@ -2,7 +2,7 @@
 <p>Neste curso serão abordados fundamentos, práticas e técnicas da linguagem JavaScript.</p>
 <p>Vários dos conceitos principais e características da linguagem serão exemplificados.</p>
 <p>O JavaScript é usado na criação de sites e aplicações web. </p>
-:bookmark_tabs: Validação de campos, aplicação de interatividade com o usuário, cálculos, criação de jogos e melhoria da interface são alguns dos usos mais comuns.
+<p> :bookmark_tabs: Validação de campos, aplicação de interatividade com o usuário, cálculos, criação de jogos e melhoria da interface são alguns dos usos mais comuns.</p>
 :game_die: Esta poderosa linguagem é a base de diversos frameworks de tecnologia, trazendo inovação e dinamismo nas páginas web nos sites mais conhecidos do mercado.
 :notebook: Animar elementos da página (ao passar o mouse, por exemplo) permite destacar áreas de conteúdo mais relevantes ao usuário.
 :iphone: A possibilidade de se criar com facilidade elementos de interação tão em uso (menus, guias/abas, banners rotativos de propaganda, caixa que se auto completa com conteúdo digitado, janela de ajuda, gráficos, etc.) traz maior credibilidade ao projeto desenvolvido e torna a interface agradável.
