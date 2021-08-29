@@ -1,4 +1,7 @@
 <h1 align="center"> JavaScript-Descomplicado_curso</h1> 
+
+<img src="./README.jpg">
+
 <h3>Status do Curso: Em andamento :warning: </h3>
 <hr>
 <p>Neste curso serão abordados fundamentos, práticas e técnicas da linguagem <b>JavaScript</b>.</p>
