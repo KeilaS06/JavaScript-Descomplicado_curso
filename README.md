@@ -15,4 +15,4 @@
 <p>:bulb: Existem circunstâncias em que se deseja que algo ocorra, em certas situações. A possibilidade de mostrar ou esconder elementos, ou até de mudar o conteúdo ou a forma de elementos na página permitem a criação de sistemas interativos, que se adequam conforme as necessidades do usuário.</p>
 <p>A maturidade da evolução da linguagem JavaScript coloca-a num patamar onde é possível a criação de aplicações de internet rica (RIA - Rich Internet Application), e assim, migrar os sistemas tradicionais de Desktop (ou Client/Server) para o navegador. </p>
 <p> Ao desvendar e evoluir na assimilação dos elementos que compõe esta linguagem, não será exagero dizer que o <b>Céu é o Limite</b>.:rocket: </p>
-Prof°[Carlos Majer](https://www.linkedin.com/in/carlos-majer-1348277/).[Pedro Leonardo](https://github.com/xpedroleonardo).
+### 💻 Feito por [Pedro Leonardo](https://github.com/xpedroleonardo).
