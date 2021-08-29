@@ -1,4 +1,6 @@
-<h1 align="center"> JavaScript-Descomplicado_curso</h1> Status do Curso: Em andamento :warning:
+<h1 align="center"> JavaScript-Descomplicado_curso</h1> 
+<h3>Status do Curso: Em andamento :warning: </h3>
+<hr>
 <p>Neste curso serão abordados fundamentos, práticas e técnicas da linguagem JavaScript.</p>
 <p>Vários dos conceitos principais e características da linguagem serão exemplificados.</p>
 <p>O JavaScript é usado na criação de sites e aplicações web. </p>
